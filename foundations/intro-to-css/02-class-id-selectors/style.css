@@ -1,1 +1,46 @@
 /* Add CSS Styling */
+
+.odd {
+    background-color: rgb(255, 167, 167);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.font-size {
+    font-size: 24px;
+}
+
+#two {
+    font-size: 36px;
+    color: blue;
+}
+
+#four {
+    background-color: rgb(70, 255, 104);
+    font-weight: bold;
+}
+
+/* OLD CODE
+
+.paragraph1 {
+    background-color: rgb(255, 167, 167);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.paragraph2 {
+    background-color: rgb(255, 167, 167);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+}
+
+#id1 {
+    color: blue;
+    font-size: 40px;
+}
+
+#id2 {
+    background-color: rgb(70, 255, 104);
+    font-weight: bold;
+    font-size: 24px;
+}
+
+*/
